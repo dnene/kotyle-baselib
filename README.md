@@ -1,2 +1,3 @@
 # kotyle-baselib
-Helpful library for Kotlin coding
+
+This is no longer maintained. Has since moved to https://github.com/dnene/kylix
